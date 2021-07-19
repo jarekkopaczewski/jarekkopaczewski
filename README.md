@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](https://github.com/jarekkopaczewski/Stats/blob/19b02eb69c6e33c0751f189a22456e2e28c41726/generated/languages.svg)
+![Stats](https://github.com/jarekkopaczewski/Stats/blob/19b02eb69c6e33c0751f189a22456e2e28c41726/generated/languages.svg) 
+![Stats](https://github.com/jarekkopaczewski/Stats/blob/19b02eb69c6e33c0751f189a22456e2e28c41726/generated/overview.svg)
