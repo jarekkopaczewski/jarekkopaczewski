@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](https://github.com/jarekkopaczewski/Stats/blob/19b02eb69c6e33c0751f189a22456e2e28c41726/generated/languages.svg) 
+![Stats](https://github.com/jarekkopaczewski/Stats/blob/7a5495eda98b1aabefa9a0b6346b4eb25ab193c3/generated/languages.svg) 
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/19b02eb69c6e33c0751f189a22456e2e28c41726/generated/overview.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarekkopaczewski&theme=dark)](https://git.io/streak-stats)
 
