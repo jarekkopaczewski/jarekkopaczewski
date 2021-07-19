@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/19b02eb69c6e33c0751f189a22456e2e28c41726/generated/languages.svg) 
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/19b02eb69c6e33c0751f189a22456e2e28c41726/generated/overview.svg)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarekkopaczewski)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekkopaczewski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarekkopaczewski&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
