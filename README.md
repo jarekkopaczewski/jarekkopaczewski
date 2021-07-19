@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/b7795ff3437e5a117756a7baafb35f9788211a18/generated/languages.svg) 
-![Stats](https://github.com/jarekkopaczewski/Stats/blob/b6a5975ba5149a2ca4d96d2c62cca4f5610165bd/generated/overview.svg)
+![Stats](https://github.com/jarekkopaczewski/Stats/blob/877cf0b79ccb616197db9c01b02ddc2b3fa1d228/generated/overview.svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jarekkopaczewski&theme=dark)](https://git.io/streak-stats)
 
