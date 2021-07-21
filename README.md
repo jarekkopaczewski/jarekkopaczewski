@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on audio plugins in JUCE<br />🌱 I’m currently learning JS and Kotlin
+⚪️ I’m currently working on audio plugins in JUCE<br />⚪️ I’m currently learning JS and Kotlin
 <!--
 **jarekkopaczewski/jarekkopaczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
