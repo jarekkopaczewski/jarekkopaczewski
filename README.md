@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/946ba7c213fd664733e71d984dfd0224f11db7df/generated/languages.svg) 
-![Stats](https://github.com/jarekkopaczewski/Stats/blob/1ff1ce3d4f65621dbf8c5c423abae5d61e526d0e/generated/overview.svg)
+![Stats](https://github.com/jarekkopaczewski/Stats/blob/a66a85a2a73cce988bb98cd0e876847c2b966685/generated/overview.svg)
 
