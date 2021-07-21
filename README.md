@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/656ba487f78729316125e33e5686aab7221569f6/generated/languages.svg) 
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/877cf0b79ccb616197db9c01b02ddc2b3fa1d228/generated/overview.svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jarekkopaczewski&theme=dark&border=444444&background=1E1E1E&currStreakNum=F2F2F2&sideNums=F2F2F2)](https://git.io/streak-stats)
-
 
