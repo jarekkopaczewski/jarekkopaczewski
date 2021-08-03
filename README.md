@@ -12,6 +12,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Lang](https://github.com/jarekkopaczewski/Stats/blob/8bbb16bfd46c8d99a272bfd22a77f2e8ea30602c/generated/languages.svg) 
+![Lang](https://github.com/jarekkopaczewski/Stats/blob/c119552e4e2a67c08ca19fe156867d4f9d17018b/generated/languages.svg) 
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/1ae20e09551859fb4b4c8f3d8252a669b3e2098a/generated/overview.svg)
 
