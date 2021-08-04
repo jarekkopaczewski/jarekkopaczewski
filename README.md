@@ -13,5 +13,5 @@
 - ⚡ Fun fact: ...
 -->
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/e016b42c039e5d045fd038531f49913b2823be45/generated/languages.svg) 
-![Stats](https://github.com/jarekkopaczewski/Stats/blob/c119552e4e2a67c08ca19fe156867d4f9d17018b/generated/overview.svg)
+![Stats](https://github.com/jarekkopaczewski/Stats/blob/e016b42c039e5d045fd038531f49913b2823be45/generated/overview.svg)
 
