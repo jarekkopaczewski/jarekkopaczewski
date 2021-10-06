@@ -11,10 +11,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![CodeWars](https://www.codewars.com/users/jarekopaczewski/badges/large)<br />
 !
 -->
-![CodeWars](https://www.codewars.com/users/jarekopaczewski/badges/large)<br />
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/e016b42c039e5d045fd038531f49913b2823be45/generated/languages.svg) 
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/e016b42c039e5d045fd038531f49913b2823be45/generated/overview.svg)
 
