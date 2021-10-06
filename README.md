@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+◻️  I’m currently learning Python and Kotlin
 <!--
 ◻️  I’m currently working on audio plugins in JUCE<br />◻️  I’m currently learning JS and Kotlin
 - 🔭 I’m currently working on 
