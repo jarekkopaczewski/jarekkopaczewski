@@ -18,7 +18,7 @@
 
 
 
-![Lang](https://github.com/jarekkopaczewski/Stats/blob/d60ed8a09c60646a4aecd82761f53b6860a09f8a/generated/languages.svg) 
+![Lang](https://github.com/jarekkopaczewski/Stats/blob/972de59d617ce02ff53319ce5c79fe882edd25c5/generated/languages.svg) 
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/d60ed8a09c60646a4aecd82761f53b6860a09f8a/generated/overview.svg)
 
 
