@@ -12,6 +12,8 @@
 - 📫 How to reach me: ...
 
 
+
+
 - 😄 Pronouns: ...
 
 ![CodeWars](https://www.codewars.com/users/jarekopaczewski/badges/large)<br />
