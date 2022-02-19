@@ -1,7 +1,5 @@
 ### Hi there 👋
 ◻️  I’m currently learning Kotlin
-
-
 <!--
 ◻️  I’m currently working on audio plugins in JUCE<br />◻️  I’m currently learning JS and Kotlin
 - 🔭 I’m currently working on 
