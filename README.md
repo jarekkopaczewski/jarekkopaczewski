@@ -22,9 +22,9 @@
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />](https://www.java.com/pl/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://www.java.com/pl/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://www.java.com/pl/)
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />](https://www.java.com/pl/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />](https://www.java.com/pl/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />](https://www.java.com/pl/)
-[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />](https://www.java.com/pl/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />](https://www.java.com/pl/)
 
 ## Stats
