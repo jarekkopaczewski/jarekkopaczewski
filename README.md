@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 ◻️  I’m currently learning Kotlin
 <!--
 ◻️  I’m currently working on audio plugins in JUCE<br />◻️  I’m currently learning JS and Kotlin
@@ -12,5 +12,6 @@
 ![CodeWars](https://www.codewars.com/users/jarekopaczewski/badges/large)<br />
 !
 -->
+##Languages and Tools:
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/734aa80764fda9190aed8a43f0b0ab26f950ff79/generated/languages.svg) 
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/45949aa24edda82187b13ee30fc99237803ce443/generated/overview.svg)
