@@ -14,7 +14,7 @@
 -->
 ## Languages and Tools
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />](https://kotlinlang.org/)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width = "30"  />
+[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
 
 ## Stats
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/734aa80764fda9190aed8a43f0b0ab26f950ff79/generated/languages.svg) 
