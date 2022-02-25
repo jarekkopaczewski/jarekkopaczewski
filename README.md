@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there [<img alt="alt_text" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />]
 ◻️  I’m currently learning Kotlin
 
 ## Languages and Tools
