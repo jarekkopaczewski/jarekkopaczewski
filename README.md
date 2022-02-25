@@ -13,8 +13,6 @@
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://www.android.com/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />](https://gradle.org/)
-[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />](https://www.jetbrains.com/idea/)
-[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />](https://visualstudio.microsoft.com/pl/)
 
 ## Stats
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/734aa80764fda9190aed8a43f0b0ab26f950ff79/generated/languages.svg) 
