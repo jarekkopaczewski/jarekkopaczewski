@@ -12,7 +12,7 @@
 ![CodeWars](https://www.codewars.com/users/jarekopaczewski/badges/large)<br />
 !
 -->
-## 🔧 Languages and Tools
+## Languages and Tools
 
 ## Stats
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/734aa80764fda9190aed8a43f0b0ab26f950ff79/generated/languages.svg) 
