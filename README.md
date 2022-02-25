@@ -1,4 +1,10 @@
-## Hi there! <img alt="alt_text" width="30px" src="https://github.com/jarekkopaczewski/jarekkopaczewski/blob/7f9dc290174372d7d5b599462fe9e0716b81598b/hi.gif"/>
+
+<p align="center">
+
+    ## Hi there! <img alt="alt_text" width="30px" src="https://github.com/jarekkopaczewski/jarekkopaczewski/blob/7f9dc290174372d7d5b599462fe9e0716b81598b/hi.gif"/>
+
+</p>
+
 ◻️  I’m currently learning Kotlin
 
 ## Languages and Tools
@@ -14,6 +20,5 @@
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />](https://gradle.org/)
 
-## Stats
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/734aa80764fda9190aed8a43f0b0ab26f950ff79/generated/languages.svg) 
 ![Stats](https://github.com/jarekkopaczewski/Stats/blob/45949aa24edda82187b13ee30fc99237803ce443/generated/overview.svg)
