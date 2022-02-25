@@ -1,5 +1,5 @@
 
-<p align="center">
+## <p align="center">
    Hi there! <img alt="alt_text" width="30px" src="https://github.com/jarekkopaczewski/jarekkopaczewski/blob/7f9dc290174372d7d5b599462fe9e0716b81598b/hi.gif"/>
 </p>
 
