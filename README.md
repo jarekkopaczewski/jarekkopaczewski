@@ -3,7 +3,7 @@
 ◻️  I’m currently learning Kotlin
 
 ## Languages and Tools
-[<img alt="alt_text" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />](https://kotlinlang.org/)
+[<img alt="alt_text" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />](https://kotlinlang.org/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />](https://www.java.com/pl/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
