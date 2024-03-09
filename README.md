@@ -9,8 +9,6 @@
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://www.android.com/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
-[<img alt="alt_text" width="40px" src="https://github.com/jarekkopaczewski/jarekkopaczewski/blob/b62e37a93502ef8619fd5a86cf64cde04e5fe39a/gradle.svg" />](https://gradle.org/)
-
 
 ## Stats
 ![Lang](https://github.com/jarekkopaczewski/Stats/blob/master/generated/languages.svg)
