@@ -8,11 +8,8 @@
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" />](https://www.scala-lang.org/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />](https://www.android.com/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />](https://isocpp.org/)
-[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
-[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://www.python.org/downloads/)
-[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />](https://www.mysql.com/)
 [<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://git-scm.com/)
-[<img alt="alt_text" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />](https://gradle.org/)
+[<img alt="alt_text" width="40px" src="https://github.com/jarekkopaczewski/jarekkopaczewski/blob/b62e37a93502ef8619fd5a86cf64cde04e5fe39a/gradle.svg" />](https://gradle.org/)
 
 
 ## Stats
